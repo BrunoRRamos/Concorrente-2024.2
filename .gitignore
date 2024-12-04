@@ -1,0 +1,19 @@
+# Configurações do IntelliJ IDEA
+.idea/
+
+# Arquivos de saída de compilação
+out/
+
+# Arquivos compilados do Java
+*.class
+
+# Pastas de logs e caches
+*.log
+*.cache
+
+# Arquivos temporários
+*~
+
+# Arquivos do sistema operacional (ex: MacOS, Windows)
+.DS_Store
+Thumbs.db
